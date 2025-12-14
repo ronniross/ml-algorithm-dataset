@@ -1,8 +1,8 @@
-# ASI Algorithms Research Sub-Module
+# Machine Learning Algorithms Research Sub-Module
 
 A research sub-module about the nature of algorithms and their applications, especially in a machine learning context.
 
-It is a core component of the [asi-algorithm-dataset](https://github.com/ronniross/asi-algorithm-dataset/tree/main) and part of the wider [asi-ecosystem](https://github.com/ronniross/asi-ecosystem).
+It is a core component of the [ml-algorithm-dataset](https://github.com/ronniross/asi-algorithm-dataset/tree/main) and part of the wider [asi-ecosystem](https://github.com/ronniross/asi-ecosystem).
 
 ## Introduction
 
