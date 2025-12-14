@@ -1,4 +1,4 @@
-project: asi-algorithm-dataset
+project: ml-algorithm-dataset
 description: A conjecture of datasets specifically designed for Machine Learning training and tuning pipelines, mostly novel algorithms and their representations as RAW ASCII and LaTeX, connected to the asi-ecosystem framework.
 disclaimer:
   protocol_integrity: Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
