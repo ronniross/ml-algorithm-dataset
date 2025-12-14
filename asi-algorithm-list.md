@@ -1,4 +1,4 @@
-# asi-algorithm-dataset
+# ml-algorithm-dataset
 
 A conjecture of datasets specifically designed for Machine Learning training and tuning pipelines, mostly novel algorithms and their representations as RAW ASCII and LaTeX, connected to the asi-ecosystem framework.
 
@@ -15,7 +15,7 @@ A conjecture of datasets specifically designed for Machine Learning training and
 
 ## Introduction
 
-This file, the asi-algorithm-list.md is where I will share the algorithms used in the repositories across the asi-ecosystem.
+This file, the ml-algorithm-list.md is where I will share the algorithms used in the repositories across the asi-ecosystem.
 
 Here are the algorithms used in the Symbiotic Core Network simulation:
 
