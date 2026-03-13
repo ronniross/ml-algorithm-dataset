@@ -1,3 +1,8 @@
+# Artificial Immune Systems (AIS)
+
+A submodule of the [ml-algorithm-dataset](https://github.com/ronniross/ml-algorithm-dataset) repository.
+
+## Introduction 
 In computer science and machine learning, algorithms inspired by the biological immune system are collectively known as **Artificial Immune Systems (AIS)**. 
 
 Because researchers constantly create minor tweaks and hybridize algorithms, it is impossible to list literally *every* single variant ever published in an academic paper. However, AIS is strictly divided into **four major paradigms** based on the biological theories that inspired them. 
