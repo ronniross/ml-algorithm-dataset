@@ -108,15 +108,19 @@ These are the seminal papers and books that introduced these algorithms to the f
 *   **Quantum-inspired Immune Algorithms (QIA):** Dong, N., Wu, C., & Zhang, Y. (2004). Quantum-inspired immune algorithm. *Proceedings of the 2004 Congress on Evolutionary Computation (CEC)*, 2, 2266-2270.
 
 
-  https://arxiv.org/abs/0910.4903
-  https://dergipark.org.tr/tr/pub/uumfd/336407.xml
-  https://kar.kent.ac.uk/13942/
-  https://ieeexplore.ieee.org/document/10379293/
-  https://ouci.dntb.gov.ua/en/works/lo8xZPE9/
-  https://www.researchgate.net/publication/3418695_Learning_and_Optimization_Using_the_Clonal_Selection_Principle
-  https://www.grafiati.com/en/literature-selections/artificial-immune-systems/book/
-  https://kar.kent.ac.uk/13942/
-  https://pubmed.ncbi.nlm.nih.gov/17535140/
-  https://pmc.ncbi.nlm.nih.gov/articles/PMC3981469/
-  https://www.mdpi.com/2071-1050/14/10/5805
-  https://arxiv.org/pdf/1006.4949
+  [1](https://arxiv.org/abs/0910.4903)
+  [2](https://dergipark.org.tr/tr/pub/uumfd/336407.xml)
+  [3](https://kar.kent.ac.uk/13942/)
+  [4](https://ieeexplore.ieee.org/document/10379293/)
+  [5](https://ouci.dntb.gov.ua/en/works/lo8xZPE9/)
+  [6](https://www.researchgate.net/publication/3418695_Learning_and_Optimization_Using_the_Clonal_Selection_Principle)
+  [7](https://www.grafiati.com/en/literature-selections/artificial-immune-systems/book/)
+  [8](https://kar.kent.ac.uk/13942/)
+  [9](https://pubmed.ncbi.nlm.nih.gov/17535140/)
+  [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC3981469/)
+  [11](https://www.mdpi.com/2071-1050/14/10/5805)
+  [12](https://arxiv.org/pdf/1006.4949)
+
+  ---
+  Ronni Ross  
+  2026
