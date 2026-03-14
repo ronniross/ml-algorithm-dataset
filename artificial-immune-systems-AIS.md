@@ -12,6 +12,7 @@ But here is a comprehensive list of all the fundamental AIS algorithms, along wi
 ---
 
 ### 1. Clonal Selection Algorithms (CSA)
+[**Visualizer:**](https://huggingface.co/datasets/ronniross/ml-visual-engine/blob/main/standalone-visualizers/AIS-CLONALG-Clonal-Selection-Algorithm-standalone-visualizer.ipynb)
 **Biological Inspiration:** The Clonal Selection Theory (how B-cells and T-cells mutate and clone themselves to destroy a specific, recognized pathogen). 
 **Primary Use:** Optimization (both continuous and combinatorial) and pattern recognition.
 
@@ -24,6 +25,7 @@ But here is a comprehensive list of all the fundamental AIS algorithms, along wi
 *   **ICSA (Improved Clonal Selection Algorithm):** Various implementations exist under this name, usually incorporating adaptive mutation rates.
 
 ### 2. Negative Selection Algorithms (NSA)
+[**Visualizer:**](https://huggingface.co/datasets/ronniross/ml-visual-engine/blob/main/standalone-visualizers/negative-selection-algorithm-NSA-simulation-standalone-visualizer.ipynb)
 **Biological Inspiration:** The maturation process of T-cells in the thymus, where T-cells that attack the body's own cells (self) are destroyed, leaving only cells that attack anomalies (non-self).
 **Primary Use:** Anomaly detection, fault detection, and cybersecurity (intrusion detection).
 
@@ -35,6 +37,7 @@ But here is a comprehensive list of all the fundamental AIS algorithms, along wi
 *   **Grid-based NSA:** Divides the problem space into a grid to speed up the generation of detectors.
 
 ### 3. Artificial Immune Networks (AIN / aiNet)
+[**Visualizer:**](https://huggingface.co/datasets/ronniross/ml-visual-engine/blob/main/standalone-visualizers/artificial-immune-networks-AIN-aiNet-standalone-visualizer.ipynb)
 **Biological Inspiration:** Jerne’s Immune Network Theory, which suggests that immune cells do not just react to pathogens, but also interact with, stimulate, and suppress *each other* to maintain a dynamic memory of the environment.
 **Primary Use:** Data clustering, data visualization, and dynamic optimization.
 
@@ -47,6 +50,7 @@ But here is a comprehensive list of all the fundamental AIS algorithms, along wi
 *   **SIA (Supervised Immune Algorithm):** A network-based algorithm adapted for supervised machine learning and classification.
 
 ### 4. Danger Theory & Dendritic Cell Algorithms (DCA)
+[**Visualizer:**](https://huggingface.co/datasets/ronniross/ml-visual-engine/blob/main/standalone-visualizers/danger-theory-%26-dendritic-cell-algorithms-DCA-standalone-visualizer.ipynb)
 **Biological Inspiration:** Matzinger’s Danger Theory, which proposes that the immune system does not just distinguish between "self" and "non-self," but rather reacts to "danger signals" emitted by injured or dying cells. Dendritic cells are the agents that collect these signals.
 **Primary Use:** Real-time anomaly detection, intrusion detection systems (IDS), and malware detection.
 
@@ -56,6 +60,7 @@ But here is a comprehensive list of all the fundamental AIS algorithms, along wi
 *   **cnsDCA (Cellular Negative Selection Dendritic Cell Algorithm):** A hybrid approach combining the signal-processing of DCA with the detector-generation of NSA.
 
 ### 5. Hybrid Immune Algorithms
+[**Visualizer:**](https://huggingface.co/datasets/ronniross/ml-visual-engine/blob/main/standalone-visualizers/hybrid-immune-algorithms-standalone-visualizer.ipynb)
 Because AIS algorithms are highly adaptable, they are frequently merged with other Artificial Intelligence paradigms.
 
 *   **IGA (Immune Genetic Algorithm):** Combines Genetic Algorithms (GA) with immune concepts. It uses "vaccines" (prior knowledge about the problem) to prevent the genetic algorithm from degrading during mutation.
@@ -66,16 +71,6 @@ Because AIS algorithms are highly adaptable, they are frequently merged with oth
 
 ### Summary
 If you are looking to study or implement AIS, the four algorithms you absolutely must know are **CLONALG** (for optimization), **NSA** (for anomaly detection), **aiNet** (for clustering), and **DCA** (for modern, signal-based anomaly detection). Almost all other algorithms on this list are derivatives of these four.
-
-
-
-
-
-Here is a formatted list of credible, foundational academic sources for the algorithms mentioned in the previous document. I have organized them by category so you can easily map them to the sections on your first page. 
-
-These are the seminal papers and books that introduced these algorithms to the field of computer science. You can copy and paste this directly into the second page of your Markdown document.
-
-***
 
 ## References: Artificial Immune Systems
 
